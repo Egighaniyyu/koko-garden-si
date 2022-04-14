@@ -1,0 +1,6 @@
+{
+    "intelephense.diagnostics.undefinedVariables": false,
+    "intelephense.diagnostics.undefinedMethods": false,
+    "intelephense.diagnostics.undefinedTypes": false,
+    "intelephense.diagnostics.undefinedSymbols": false
+}
